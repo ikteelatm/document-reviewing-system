@@ -1,0 +1,16 @@
+
+.document {
+    cursor: pointer;
+
+}
+.card {
+    margin: 20px;
+    padding: 20px;
+}
+.cardBack {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    /*width: 200px;*/
+    /*height: 300px;*/
+}

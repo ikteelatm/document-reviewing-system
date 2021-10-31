@@ -1,0 +1,27 @@
+
+
+.upload_title {
+    margin-block-end: 100px;
+}
+
+.offensive_words_title {
+    font-size: 1.5rem;
+    background-color: bisque;
+    display: table;
+}
+
+.offensive_words_list {
+    border: 1px solid blue;
+    margin-block-start: 10px;
+    margin-block-end: 20px;
+    overflow-y: auto;
+    margin-left: unset;
+    margin-right: unset;
+    height: 400px;
+}
+
+.form {
+    display: flex;
+    margin-block-start: 20px;
+    margin-block-end: 40px;
+}
